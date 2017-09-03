@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "EsperantoAlJuliamo.data.unityweb",
+"asmCodeUrl": "EsperantoAlJuliamo.asm.code.unityweb",
+"asmMemoryUrl": "EsperantoAlJuliamo.asm.memory.unityweb",
+"asmFrameworkUrl": "EsperantoAlJuliamo.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
